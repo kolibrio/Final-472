@@ -14,3 +14,4 @@ My experience with it was very intriguing and somewhat uncomfortable. I think th
 
 Unfortunately, during gallery install, I fried my Teensy and have been unable to replace it, so I do not have documentation of the project working in it's non-clamped state. The video shows exactly how it looks but with clamps for the drying epoxy.
 
+The array design was inspired by https://github.com/gururise/directional_speaker
