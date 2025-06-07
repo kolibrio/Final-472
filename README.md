@@ -12,3 +12,5 @@ When the viewer is not directly in front of the device, they will hear only an a
 
 My experience with it was very intriguing and somewhat uncomfortable. I think this device is safe, but there isn't a lot of understanding of the risks to ones mind if they are in prolonged exposure to it.
 
+Unfortunately, during gallery install, I fried my Teensy and have been unable to replace it, so I do not have documentation of the project working in it's non-clamped state. The video shows exactly how it looks but with clamps for the drying epoxy.
+
